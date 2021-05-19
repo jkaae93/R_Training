@@ -1,0 +1,155 @@
+"","occupation","maleN","maleEarnings","femaleN","femaleEarnings","n","femaleRatio"
+"1","Management, professional, and related occupations",24260,1539,25859,1135,50119,0.515952034158702
+"2","Management, business, and financial operations occupations",11111,1598,9585,1221,20696,0.463132972555083
+"3","Management occupations",8002,1659,5946,1266,13948,0.426297677086321
+"4","Chief executives",812,2509,302,2019,1114,0.271095152603232
+"5","General and operations managers",678,1476,312,1153,990,0.315151515151515
+"8","Marketing and sales managers",591,1895,518,1393,1109,0.467087466185753
+"10","Administrative services managers",93,1277,61,1084,154,0.396103896103896
+"11","Computer and information systems managers",439,2019,190,1892,629,0.302066772655008
+"12","Financial managers",523,1897,619,1207,1142,0.542031523642732
+"14","Human resources managers",69,1829,230,1538,299,0.769230769230769
+"16","Industrial production managers",208,1469,62,1497,270,0.22962962962963
+"17","Purchasing managers",129,1657,84,1390,213,0.394366197183099
+"20","Construction managers",539,1511,71,1210,610,0.116393442622951
+"21","Education administrators",276,1467,536,1335,812,0.660098522167488
+"23","Food service managers",420,964,365,719,785,0.464968152866242
+"26","Lodging managers",61,1096,55,894,116,0.474137931034483
+"27","Medical and health services managers",169,1828,409,1362,578,0.707612456747405
+"30","Property, real estate, and community association managers",214,1168,224,849,438,0.511415525114155
+"31","Social and community service managers",143,1452,260,1156,403,0.645161290322581
+"33","Managers, all other",2088,1725,1409,1317,3497,0.402916785816414
+"34","Business and financial operations occupations",3109,1468,3639,1148,6748,0.539270895080024
+"37","Wholesale and retail buyers, except farm products",87,982,76,977,163,0.466257668711656
+"38","Purchasing agents, except wholesale, retail, and farm products",134,1202,113,1081,247,0.45748987854251
+"39","Claims adjusters, appraisers, examiners, and investigators",104,1277,195,972,299,0.652173913043478
+"40","Compliance officers",105,1561,165,1264,270,0.611111111111111
+"42","Human resources workers",186,1325,494,1149,680,0.726470588235294
+"44","Training and development specialists",51,1249,68,968,119,0.571428571428571
+"46","Management analysts",389,1870,303,1517,692,0.437861271676301
+"49","Market research analysts and marketing specialists",130,1688,152,1228,282,0.539007092198582
+"50","Business operations specialists, all other",100,1540,148,1193,248,0.596774193548387
+"51","Accountants and auditors",670,1419,1013,1141,1683,0.601901366607249
+"55","Financial analysts",203,1763,104,1386,307,0.338762214983713
+"56","Personal financial advisors",296,1905,152,1232,448,0.339285714285714
+"57","Insurance underwriters",57,1338,59,1142,116,0.508620689655172
+"59","Credit counselors and loan officers",173,1542,193,1020,366,0.527322404371585
+"63","Professional and related occupations",13149,1493,16274,1085,29423,0.553104713999252
+"64","Computer and mathematical occupations",3668,1658,1279,1353,4947,0.258540529613907
+"66","Computer systems analysts",368,1580,255,1289,623,0.409309791332263
+"68","Computer programmers",343,1613,82,1463,425,0.192941176470588
+"69","Software developers, applications and systems software",1379,1920,335,1718,1714,0.195449241540257
+"70","Web developers",88,1633,56,1150,144,0.388888888888889
+"71","Computer support specialists",365,1223,121,1103,486,0.248971193415638
+"73","Network and computer systems administrators",144,1541,50,1233,194,0.257731958762887
+"75","Computer occupations, all other",542,1365,179,1148,721,0.248266296809986
+"78","Operations research analysts",86,1753,67,1188,153,0.437908496732026
+"81","Architecture and engineering occupations",2559,1589,452,1339,3011,0.150116240451677
+"88","Civil engineers",360,1657,61,1353,421,0.144893111638955
+"92","Industrial engineers, including health and safety",169,1616,58,1487,227,0.255506607929515
+"99","Engineers, all other",455,1663,74,1446,529,0.139886578449905
+"101","Engineering technicians, except drafters",382,1200,79,915,461,0.171366594360087
+"103","Life, physical, and social science occupations",676,1447,556,1237,1232,0.451298701298701
+"107","Medical scientists",77,1214,70,1175,147,0.476190476190476
+"113","Physical scientists, all other",158,1901,120,1385,278,0.431654676258993
+"126","Miscellaneous life, physical, and social science technicians",57,928,51,896,108,0.472222222222222
+"127","Community and social service occupations",742,1064,1498,941,2240,0.66875
+"128","Counselors",179,944,541,1003,720,0.751388888888889
+"129","Social workers",136,1108,603,944,739,0.81596752368065
+"133","Clergy",275,1155,57,862,332,0.171686746987952
+"136","Legal occupations",670,1999,808,1266,1478,0.546684709066306
+"137","Lawyers",548,2202,336,1878,884,0.380090497737557
+"142","Education, training, and library occupations",1991,1265,5247,987,7238,0.724924012158055
+"143","Postsecondary teachers",544,1670,442,1358,986,0.448275862068966
+"145","Elementary and middle school teachers",640,1161,2522,1042,3162,0.797596457938014
+"146","Secondary school teachers",408,1262,474,1095,882,0.537414965986395
+"148","Other teachers and instructors",192,1190,263,942,455,0.578021978021978
+"152","Teacher assistants",72,707,565,579,637,0.886970172684458
+"154","Arts, design, entertainment, sports, and media occupations",956,1231,806,1077,1762,0.457434733257662
+"156","Designers",337,1214,324,1052,661,0.490166414523449
+"158","Producers and directors",59,1652,50,1156,109,0.458715596330275
+"174","Healthcare practitioners and technical occupations",1887,1422,5627,1130,7514,0.748868778280543
+"179","Pharmacists",100,2245,155,1877,255,0.607843137254902
+"180","Physicians and surgeons",507,2500,349,1878,856,0.407710280373832
+"185","Physical therapists",81,1610,130,1323,211,0.616113744075829
+"193","Registered nurses",320,1256,2321,1217,2641,0.878833775085195
+"198","Clinical laboratory technologists and technicians",66,1117,215,952,281,0.765124555160142
+"200","Diagnostic related technologists and technicians",107,1166,213,1076,320,0.665625
+"201","Emergency medical technicians and paramedics",125,991,54,786,179,0.301675977653631
+"202","Health practitioner support technologists and technicians",126,843,444,712,570,0.778947368421053
+"203","Licensed practical and licensed vocational nurses",53,896,481,799,534,0.900749063670412
+"209","Service occupations",7898,659,8660,537,16558,0.523010025365382
+"210","Healthcare support occupations",363,639,2337,585,2700,0.865555555555556
+"211","Nursing, psychiatric, and home health aides",184,588,1287,556,1471,0.874915023793338
+"222","Protective service occupations",2172,953,553,731,2725,0.202935779816514
+"229","Bailiffs, correctional officers, and jailers",251,890,114,664,365,0.312328767123288
+"233","Police and sheriff's patrol officers",559,1143,127,922,686,0.185131195335277
+"237","Security guards and gaming surveillance officers",631,671,159,589,790,0.20126582278481
+"241","Food preparation and serving related occupations",2352,576,2337,492,4689,0.498400511836212
+"242","Chefs and head cooks",334,727,72,553,406,0.177339901477833
+"243","First-line supervisors of food preparation and serving workers",184,657,242,545,426,0.568075117370892
+"244","Cooks",831,535,531,489,1362,0.389867841409692
+"245","Food preparation workers",246,532,328,463,574,0.571428571428571
+"246","Bartenders",159,655,134,578,293,0.457337883959044
+"247","Combined food preparation and serving workers, including fast food",65,457,126,467,191,0.659685863874346
+"249","Waiters and waitresses",292,594,681,491,973,0.699897225077081
+"251","Dining room and cafeteria attendants and bartender helpers",66,605,50,513,116,0.431034482758621
+"255","Building and grounds cleaning and maintenance occupations",2293,618,1386,502,3679,0.376732807828214
+"256","First-line supervisors of housekeeping and janitorial workers",134,758,80,639,214,0.373831775700935
+"258","Janitors and building cleaners",1068,610,494,510,1562,0.316261203585147
+"259","Maids and housekeeping cleaners",126,520,769,484,895,0.859217877094972
+"262","Personal care and service occupations",718,624,2047,531,2765,0.740325497287523
+"263","First-line supervisors of gaming workers",63,853,54,791,117,0.461538461538462
+"279","Personal care aides",130,581,685,509,815,0.840490797546012
+"280","Recreation and fitness workers",88,656,102,580,190,0.536842105263158
+"284","Sales and office occupations",9695,874,14188,713,23883,0.594062722438555
+"285","Sales and related occupations",5525,982,4404,677,9929,0.443549199315137
+"286","First-line supervisors of retail sales workers",1246,955,1070,708,2316,0.462003454231434
+"287","First-line supervisors of non-retail sales workers",596,1157,261,1173,857,0.304550758459743
+"288","Cashiers",438,510,959,499,1397,0.686471009305655
+"291","Retail salespersons",1094,806,762,578,1856,0.410560344827586
+"292","Advertising sales agents",88,1143,81,874,169,0.479289940828402
+"293","Insurance sales agents",214,1034,247,806,461,0.535791757049892
+"294","Securities, commodities, and financial services sales agents",129,1386,63,1063,192,0.328125
+"296","Sales representatives, services, all other",340,1332,137,973,477,0.287211740041929
+"297","Sales representatives, wholesale and manufacturing",813,1262,294,1067,1107,0.265582655826558
+"299","Real estate brokers and sales agents",222,1344,321,883,543,0.591160220994475
+"303","Sales and related workers, all other",123,966,71,848,194,0.365979381443299
+"304","Office and administrative support occupations",4170,771,9784,721,13954,0.701160957431561
+"305","First-line supervisors of office and administrative support workers",406,971,809,816,1215,0.665843621399177
+"311","Bookkeeping, accounting, and auditing clerks",84,784,573,764,657,0.872146118721461
+"321","Customer service representatives",717,736,1259,673,1976,0.637145748987854
+"331","Receptionists and information clerks",100,735,809,636,909,0.88998899889989
+"336","Dispatchers",108,854,131,763,239,0.548117154811716
+"339","Postal service mail carriers",185,994,111,893,296,0.375
+"341","Production, planning, and expediting clerks",114,1039,154,872,268,0.574626865671642
+"342","Shipping, receiving, and traffic clerks",332,686,175,662,507,0.345167652859961
+"343","Stock clerks and order fillers",636,596,380,605,1016,0.374015748031496
+"345","Secretaries and administrative assistants",137,795,1932,763,2069,0.933784436926051
+"347","Data entry keyers",50,738,153,656,203,0.753694581280788
+"352","Office clerks, general",188,718,809,677,997,0.811434302908726
+"356","Office and administrative support workers, all other",147,950,375,820,522,0.718390804597701
+"358","Natural resources, construction, and maintenance occupations",11134,881,537,614,11671,0.0460114814497472
+"359","Farming, fishing, and forestry occupations",690,593,210,513,900,0.233333333333333
+"364","Miscellaneous agricultural workers",544,581,148,502,692,0.213872832369942
+"369","Construction and extraction occupations",6280,873,187,711,6467,0.0289160352559146
+"410","Installation, maintenance, and repair occupations",4164,943,140,850,4304,0.0325278810408922
+"449","Production, transportation, and material moving occupations",12020,780,3334,593,15354,0.217142112804481
+"450","Production occupations",5668,814,2073,596,7741,0.267794858545408
+"451","First-line supervisors of production and operating workers",633,1031,173,721,806,0.214640198511166
+"453","Electrical, electronics, and electromechanical assemblers",52,712,51,594,103,0.495145631067961
+"456","Miscellaneous assemblers and fabricators",574,724,326,597,900,0.362222222222222
+"457","Bakers",70,590,81,522,151,0.536423841059603
+"458","Butchers and other meat, poultry, and fish processing workers",198,671,67,573,265,0.252830188679245
+"462","Food processing workers, all other",94,779,50,573,144,0.347222222222222
+"483","Metal workers and plastic workers, all other",312,795,74,592,386,0.191709844559585
+"516","Inspectors, testers, sorters, samplers, and weighers",463,939,259,693,722,0.358725761772853
+"519","Packaging and filling machine operators and tenders",116,646,128,533,244,0.524590163934426
+"531","Production workers, all other",763,767,293,566,1056,0.277462121212121
+"532","Transportation and material moving occupations",6352,747,1260,586,7612,0.165528113504992
+"538","Bus drivers",205,718,159,625,364,0.436813186813187
+"539","Driver/sales workers and truck drivers",2564,861,159,660,2723,0.0583914799853103
+"540","Taxi drivers and chauffeurs",356,624,50,520,406,0.123152709359606
+"559","Industrial truck and tractor operators",489,686,52,625,541,0.0961182994454713
+"561","Laborers and freight, stock, and material movers, hand",1402,657,362,567,1764,0.205215419501134
+"563","Packers and packagers, hand",202,576,265,515,467,0.56745182012848
